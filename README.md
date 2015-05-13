@@ -2,7 +2,7 @@ NodeSchool en Caracas, Venezuela
 ================================
 
 <p align="center">
-  <img src="http://postimg.org/image/4ngx6r5vb/"/>
+  <img width=200 alt="node js nodeschool io" src="http://i60.tinypic.com/30nhd9v.png"/>
 </p>
 
 Este es el repositorio oficial de *NodeSchool* para Caracas, Venezuela. La  idea de este repositorio es acumular información, dudas y sugerencias de  manera que la comunidad NodeJs en Venezuela comience a crecer.
@@ -18,12 +18,12 @@ integran los grupos y ponen en contacto a todos los entusiastas de **Node.js**.
 *NodeSchool* en colaboración con **Drag & Drop**, te invita este *Sábado 23 de Mayo* al primer* International Day* de Caracas, Venezuela. El workshop se llevará a cabo en los Cortijos, comenzará a las 8:00 am y terminará a las 5:00 pm.
 
 <p align="center">
-  <img src="http://postimg.org/image/4ngx6r5vb/"/>
+  <img width=200 alt="node js nodeschool io" src="http://i60.tinypic.com/30nhd9v.png"/>
 </p>
 
 ## Código de conducta
 
-Es necesario que todos los participantes lean y acepten el [código de conducta]() que caracteriza los *International Day*s, siempre con el objetivo de propiciar un ambiente ameno de colaboración y aprendizaje.
+Es necesario que todos los participantes lean y acepten el [código de conducta](https://github.com/nodeschool/caracas/blob/master/CODIGO.md) que caracteriza los *International Day*s, siempre con el objetivo de propiciar un ambiente ameno de colaboración y aprendizaje.
 
 El primer objetivo de los *International Day*s es construir una comunidad en una localidad, por lo que es muy importante que la conducta de los participantes e integrantes de la comunidad sea la adecuada.
 
