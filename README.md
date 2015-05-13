@@ -31,6 +31,17 @@ El primer objetivo de los *International Day*s es construir una comunidad en una
 
 Si quieres participar, tienes alguna propuesta o sugerencia, abre un issue en este repositorio para que podamos atenderte.
 
+##Organizadores y Mentores
+
+Estas son las personas con las que puedes contar al momento de una duda, sugerencia o requerir asistencia:
+
+### Oganizadores
+		* Daniel Rodriguez del Villar Trimarchi
+		* Daniela A. Velasquez Conde
+
+### Mentores
+
+
 ##Agradecimientos
 
 Gracias a todos los que han participado, tanto como mentores o como asistentes.
